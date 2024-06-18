@@ -10,7 +10,6 @@ package org.ml.tools;
  * @author osboxes
  */
 public enum DataKind {
-    
     NumericKind, StringKind, BooleanKind, IntegerKind, DoubleKind
     
 }
