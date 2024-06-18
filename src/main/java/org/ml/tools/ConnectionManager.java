@@ -35,7 +35,6 @@ import java.util.Map;
  * @author Dr. Matthias Laux
  */
 public class ConnectionManager {
-
     private static ConnectionData myConnectionData = null;
     private static Connection myConnection = null;
     private static final ConnectionManager INSTANCE = new ConnectionManager();
